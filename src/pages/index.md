@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: 'Bäcker und Konditoren aus Polen '
+title: 'Bäcker und Konditoren '
 image: /img/22519470_1538229216258675_6279391685543284630_n.jpg
 heading: Great coffee with a conscience
-subheading: k
+subheading: aus Polen
 mainpitch:
   title: 'HR Personal Service Sp. z o .o '
   description: >
