@@ -11,6 +11,6 @@ featuredimage: /img/20140178_1457107094370888_4695641693667079963_n.jpg
 tags:
   - ''
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/20140178_1457107094370888_4695641693667079963_n.jpg)
 
 HR Personal Service Sp.z o .o   die Zeitarbeitsagentur für ausländische Arbeitnehmerüberlassung bietet eine komplexe Dienstleitung der Arbeitnehmerüberlassung aus Polen in Bäckereiindustrie an.
