@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Backer
+title: Bäcker und Konditoren
 image: /img/22519470_1538229216258675_6279391685543284630_n.jpg
-heading: Great coffee with a conscience
+heading: Wir sind Dienstleister in den Bereichen Leiharbeit.
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
