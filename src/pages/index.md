@@ -2,15 +2,15 @@
 templateKey: index-page
 title: Bäcker und Konditoren
 image: /img/22519470_1538229216258675_6279391685543284630_n.jpg
-heading: Wir sind Dienstleister in den Bereichen Leiharbeit.
-subheading: Support sustainable farming while enjoying a cup
+heading: aus Polen
+subheading: Wir sind Dienstleister in den Bereichen Leiharbeit.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: 'HR Personal Service Sp.z o .o '
+  description: >-
+    HR Personal Service Sp.z o .o   die Zeitarbeitsagentur für ausländische
+    Arbeitnehmerüberlassung bietet eine komplexe Dienstleitung der
+    Arbeitnehmerüberlassung aus Polen in Bäckereiindustrie an. Unsere
+    Zeitarbeitnehmer stammen aus ganz Polen.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
