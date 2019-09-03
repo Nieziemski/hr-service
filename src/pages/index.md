@@ -12,10 +12,11 @@ mainpitch:
     Arbeitnehmerüberlassung aus Polen in Bäckereiindustrie an. Unsere
     Zeitarbeitnehmer stammen aus ganz Polen.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Die Agentur für Zeitarbeit HR Personal Service Sp.z o .o  unterstützt  mit
+  Erfolg die Firmen aus Deutschland, indem sie für sie HR-Dienstleistungen
+  erbringt.  Verfügen wir über eins breites Spektrum an Personallösungen, die
+  die HR-Prozesse in den Firmen unserer Kunden und deren Finanzierungsaufwand
+  optimieren lassen.
 intro:
   blurbs: []
   heading: What we offer
