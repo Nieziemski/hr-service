@@ -9,8 +9,31 @@ heading: >-
 subheading: Wir sind Dienstleister in den Bereichen Leiharbeit.
 mainpitch:
   title: 'HR Personal Service Sp.z o.o '
-  description: c
-description: '    Diese Lösung ermöglicht dem Unternehmen sich der aktuellen Arbeitsmarktsituation elastisch anzupassen (Zeitarbeiter), ohne Personalkosten zu tragen.  Die Übernahme von Aufgaben im Bereich der Rekrutierung polnischer Arbeitskräfte und Personalbetreuung durch die Arbeitsagentur aus Polen ist selbstverständlich.  Alle vor Ort entstehenden Kosten wie Entlohnung, Versorgung, Wohnungsmiete samt aller NK, alle Lohn-, Versicherungs- und Sozialkosten (Renten-, Kranken-, Arbeitslosenversicherung) werden für unser Leihpersonal von uns getragen.   Unsere motivierten Zeitarbeitnehmer arbeiten auf der Basis eines mit uns unterzeichneten Arbeitsvertrages – unter Einhaltung der gesetzlichen Mindestlöhne. Arbeitseinsätze im 3- Schichtbetrieb sind möglich.'
+  description: >-
+
+    Diese Lösung ermöglicht dem Unternehmen sich der aktuellen
+    Arbeitsmarktsituation elastisch anzupassen (Zeitarbeiter), ohne
+    Personalkosten zu tragen.
+
+
+    Die Übernahme von Aufgaben im Bereich der Rekrutierung polnischer
+    Arbeitskräfte und Personalbetreuung durch die Arbeitsagentur aus Polen ist
+    selbstverständlich.
+
+
+    Alle vor Ort entstehenden Kosten wie Entlohnung, Versorgung, Wohnungsmiete
+    samt aller NK, alle Lohn-, Versicherungs- und Sozialkosten (Renten-,
+    Kranken-, Arbeitslosenversicherung) werden für unser Leihpersonal von uns
+    getragen. 
+
+
+    Unsere motivierten Zeitarbeitnehmer arbeiten auf der Basis eines mit uns
+    unterzeichneten Arbeitsvertrages – unter Einhaltung der gesetzlichen
+    Mindestlöhne. 
+
+
+    Arbeitseinsätze im 3- Schichtbetrieb sind möglich.
+description: '   '
 intro:
   blurbs: []
   heading: >-
