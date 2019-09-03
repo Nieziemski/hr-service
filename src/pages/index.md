@@ -8,7 +8,10 @@ heading: >-
   Bäckereiindustrie an.
 subheading: Wir sind Dienstleister in den Bereichen Leiharbeit.
 mainpitch:
-  title: 'HR Personal Service Sp.z o.o '
+  title: >-
+    HR Personal Service Sp.z o .o    die Zeitarbeitsagentur für ausländische
+    Arbeitnehmerüberlassung bietet eine komplexe Dienstleitung der
+    Arbeitnehmerüberlassung aus Polen in Bäckereiindustrie an. 
   description: >-
 
     ●   Diese Lösung ermöglicht dem Unternehmen sich der aktuellen
