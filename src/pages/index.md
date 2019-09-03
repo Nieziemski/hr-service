@@ -33,7 +33,7 @@ mainpitch:
 
 
     Arbeitseinsätze im 3- Schichtbetrieb sind möglich.
-description: '   '
+description: '   Wir engagieren uns im Bereich der Arbeitnehmerüberlassung und besitzen entsprechende Genehmigungen in Polen. HR Personal Service Sp. zo .o  verfügen  über die Erlaubnis zur gewerbsmäßigen Überlassung von Arbeitnehmern in Deutschland, die von der Bundesagentur für Arbeit - Regionaldirektion Düsseldorf erteilt wurde.'
 intro:
   blurbs: []
   heading: >-
@@ -41,12 +41,7 @@ intro:
     Arbeitnehmerüberlassung bietet eine komplexe Dienstleitung der
     Arbeitnehmerüberlassung aus Polen in Bäckereiindustrie an. Unsere
     Zeitarbeitnehmer stammen aus ganz Polen.
-  description: >-
-    Wir engagieren uns im Bereich der Arbeitnehmerüberlassung und besitzen
-    entsprechende Genehmigungen in Polen. HR Personal Service Sp. zo .o 
-    verfügen  über die Erlaubnis zur gewerbsmäßigen Überlassung von
-    Arbeitnehmern in Deutschland, die von der Bundesagentur für Arbeit -
-    Regionaldirektion Düsseldorf erteilt wurde.
+  description: T
 main:
   heading: T
   description: R
