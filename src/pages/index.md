@@ -39,6 +39,6 @@ main:
     image: /img/22519470_1538229216258675_6279391685543284630_n.jpg
   image3:
     alt: ST
-    image: /img/piekarz-ruchomy-obrazek-0016.gif
+    image: /img/22519470_1538229216258675_6279391685543284630_n.jpg
 ---
 
