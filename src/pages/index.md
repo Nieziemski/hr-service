@@ -39,7 +39,7 @@ main:
   description: R
   image1:
     alt: Px
-    image: /img/products-grid3.jpg
+    image: /img/20140178_1457107094370888_4695641693667079963_n.jpg
   image2:
     alt: BN
     image: /img/22519470_1538229216258675_6279391685543284630_n.jpg
