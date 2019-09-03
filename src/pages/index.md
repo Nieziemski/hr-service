@@ -11,28 +11,28 @@ mainpitch:
   title: 'HR Personal Service Sp.z o.o '
   description: >-
 
-    Diese Lösung ermöglicht dem Unternehmen sich der aktuellen
+    ●   Diese Lösung ermöglicht dem Unternehmen sich der aktuellen
     Arbeitsmarktsituation elastisch anzupassen (Zeitarbeiter), ohne
     Personalkosten zu tragen.
 
 
-    Die Übernahme von Aufgaben im Bereich der Rekrutierung polnischer
+    ●   Die Übernahme von Aufgaben im Bereich der Rekrutierung polnischer
     Arbeitskräfte und Personalbetreuung durch die Arbeitsagentur aus Polen ist
     selbstverständlich.
 
 
-    Alle vor Ort entstehenden Kosten wie Entlohnung, Versorgung, Wohnungsmiete
-    samt aller NK, alle Lohn-, Versicherungs- und Sozialkosten (Renten-,
-    Kranken-, Arbeitslosenversicherung) werden für unser Leihpersonal von uns
-    getragen. 
+    ●   Alle vor Ort entstehenden Kosten wie Entlohnung, Versorgung,
+    Wohnungsmiete samt aller NK, alle Lohn-, Versicherungs- und Sozialkosten
+    (Renten-, Kranken-, Arbeitslosenversicherung) werden für unser Leihpersonal
+    von uns getragen. 
 
 
-    Unsere motivierten Zeitarbeitnehmer arbeiten auf der Basis eines mit uns
+    ●   Unsere motivierten Zeitarbeitnehmer arbeiten auf der Basis eines mit uns
     unterzeichneten Arbeitsvertrages – unter Einhaltung der gesetzlichen
     Mindestlöhne. 
 
 
-    Arbeitseinsätze im 3- Schichtbetrieb sind möglich.
+    ●  Arbeitseinsätze im 3- Schichtbetrieb sind möglich.
 description: '   Wir engagieren uns im Bereich der Arbeitnehmerüberlassung und besitzen entsprechende Genehmigungen in Polen. HR Personal Service Sp. zo .o  verfügen  über die Erlaubnis zur gewerbsmäßigen Überlassung von Arbeitnehmern in Deutschland, die von der Bundesagentur für Arbeit - Regionaldirektion Düsseldorf erteilt wurde.'
 intro:
   blurbs: []
