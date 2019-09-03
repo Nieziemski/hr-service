@@ -19,7 +19,7 @@ description: >-
   optimieren lassen.
 intro:
   blurbs: []
-  heading: What we offer
+  heading: HR
   description: >-
     Wir engagieren uns im Bereich der Arbeitnehmerüberlassung und besitzen
     entsprechende Genehmigungen in Polen. HR Personal Service Sp. zo .o 
