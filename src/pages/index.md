@@ -32,7 +32,7 @@ mainpitch:
     Mindestlöhne. 
 
 
-    ●  Arbeitseinsätze im 3- Schichtbetrieb sind möglich.
+    ●  Arbeitseinsätze im 3- Schichtbetrieb sind möglich
 description: '   Wir engagieren uns im Bereich der Arbeitnehmerüberlassung und besitzen entsprechende Genehmigungen in Polen. HR Personal Service Sp. zo .o  verfügen  über die Erlaubnis zur gewerbsmäßigen Überlassung von Arbeitnehmern in Deutschland, die von der Bundesagentur für Arbeit - Regionaldirektion Düsseldorf erteilt wurde.'
 intro:
   blurbs: []
