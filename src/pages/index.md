@@ -41,7 +41,9 @@ intro:
     Arbeitnehmerüberlassung bietet eine komplexe Dienstleitung der
     Arbeitnehmerüberlassung aus Polen in Bäckereiindustrie an. Unsere
     Zeitarbeitnehmer stammen aus ganz Polen.
-  description: T
+  description: >-
+    Mit Professionalität und Komplexität übernehmen und erledigen wir sämtliche
+    Formalitäten. 
 main:
   heading: T
   description: R
