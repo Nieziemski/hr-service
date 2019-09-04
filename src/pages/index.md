@@ -6,7 +6,7 @@ heading: >-
   Die Zeitarbeitsagentur für ausländische Arbeitnehmerüberlassung bietet eine
   komplexe Dienstleitung der Arbeitnehmerüberlassung aus Polen in
   Bäckereiindustrie an.
-subheading: Wir sind Dienstleister in den Bereichen Leiharbeit.
+subheading: Wir sind Dienstleister in den Bereichen Leiharbeit
 mainpitch:
   title: >-
     Die Zeitarbeitsagentur für ausländische Arbeitnehmerüberlassung bietet eine
