@@ -2,10 +2,7 @@
 templateKey: index-page
 title: Bäcker und Konditoren
 image: /img/22519470_1538229216258675_6279391685543284630_n.jpg
-heading: >-
-  Die Zeitarbeitsagentur für ausländische Arbeitnehmerüberlassung bietet eine
-  komplexe Dienstleitung der Arbeitnehmerüberlassung aus Polen in
-  Bäckereiindustrie an.
+heading: T
 subheading: Wir sind Dienstleister in den Bereichen Leiharbeit
 mainpitch:
   title: >-
