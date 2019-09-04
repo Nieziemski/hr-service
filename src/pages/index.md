@@ -6,9 +6,9 @@ heading: T
 subheading: Wir sind Dienstleister in den Bereichen Leiharbeit.
 mainpitch:
   title: >-
-    Die Zeitarbeitsagentur für ausländische Arbeitnehmerüberlassung bietet eine
-    komplexe Dienstleitung der Arbeitnehmerüberlassung aus Polen in
-    Bäckereiindustrie an.
+    HR Personal Service Sp.z o .o. Die Zeitarbeitsagentur für ausländische
+    Arbeitnehmerüberlassung bietet eine komplexe Dienstleitung der
+    Arbeitnehmerüberlassung aus Polen in Bäckereiindustrie an.
   description: >-
 
     ●   Diese Lösung ermöglicht dem Unternehmen sich der aktuellen
