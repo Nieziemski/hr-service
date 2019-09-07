@@ -46,8 +46,9 @@ const Navbar = class extends React.Component {
                 alt="logo"
                 style={{
                   height: "33px",
-                  "margin-top": "9px",
-                  "margin-right": "20px"
+                  "margin-top": "10px",
+                  "margin-right": "20px",
+                  "margin-left": "10px"
                 }}
               />
             </Link>
