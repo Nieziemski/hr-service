@@ -12,6 +12,9 @@ mainpitch:
     die HR-Prozesse in den Firmen unserer Kunden und deren Finanzierungsaufwand
     optimieren lassen.
   description: >-
+    Verfügen wir über eins breites Spektrum an Personallösungen, die die
+    HR-Prozesse in den Firmen unserer Kunden
+
 
     ●   Diese Lösung ermöglicht dem Unternehmen sich der aktuellen
     Arbeitsmarktsituation elastisch anzupassen (Zeitarbeiter), ohne
