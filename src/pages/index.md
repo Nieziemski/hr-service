@@ -6,9 +6,11 @@ heading: 'HR Personal Service Sp. z o . o '
 subheading: Wir sind Dienstleister in den Bereichen Leiharbeit
 mainpitch:
   title: >-
-    HR Personal Service Sp.z o .o. Die Zeitarbeitsagentur für ausländische
-    Arbeitnehmerüberlassung bietet eine komplexe Dienstleitung der
-    Arbeitnehmerüberlassung aus Polen in Bäckereiindustrie an.
+    Die Agentur für Zeitarbeit HR Personal Service Sp.z o .o  unterstützt  mit
+    Erfolg die Firmen aus Deutschland, indem sie für sie HR-Dienstleistungen
+    erbringt.  Verfügen wir über eins breites Spektrum an Personallösungen, die
+    die HR-Prozesse in den Firmen unserer Kunden und deren Finanzierungsaufwand
+    optimieren lassen.
   description: >-
 
     ●   Diese Lösung ermöglicht dem Unternehmen sich der aktuellen
