@@ -7,7 +7,8 @@ subheading: Wir sind Dienstleister in den Bereichen Leiharbeit
 mainpitch:
   title: >-
     Die Agentur für Zeitarbeit HR Personal Service Sp.z o .o  unterstützt  mit
-    Erfolg die Firmen aus Deutschland
+    Erfolg die Firmen aus Deutschland, indem sie für sie HR-Dienstleistungen
+    erbringt.
   description: >-
     Verfügen wir über eins breites Spektrum an Personallösungen, die die
     HR-Prozesse in den Firmen unserer Kunden
