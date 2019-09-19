@@ -13,13 +13,19 @@ mainpitch:
     Verfügen wir über eins breites Spektrum an Personallösungen, die die
     HR-Prozesse in den Firmen unserer Kunden
 
-      ►   Wir stellen nur Facharbeiter mit berufserfahrung ein.
-      ►   Wir  erledigen alle Formalitäten :
-    alle vor Ort entstehenden Kosten wie Entlohnung, über Arbeitsschutzschulung
-    und Hygienebelehrungen, ärztliche Untersuchungen, Versicherungs,
-    Arbeitsverträge - und Sozialbeiträge
-      ►   Wir betreuen unsere Mitarbeitern 24 Stunden
-      ►   Bei nichteignung Ersatz des Mitarbeiters innerhalb von 7 Tagen
+      ►     Wir stellen nur Facharbeiter mit berufserfahrung ein.
+      ►     Wir  erledigen alle Formalitäten :
+              alle vor Ort entstehenden Kosten wie Entlohnung, über Arbeitsschutzschulung und 
+              Hygienebelehrungen, ärztliche Untersuchungen, Versicherungs, Arbeitsverträge - und Sozialbeiträge
+      ►     Wir betreuen unsere Mitarbeitern 24 Stunden
+      ►     Bei nichteignung Ersatz des Mitarbeiters innerhalb von 7 Tagen
+
+
+    Wir engagieren uns im Bereich der Arbeitnehmerüberlassung und besitzen
+    entsprechende Genehmigungen in Polen. HR Personal Service Sp. zo .o 
+    verfügen  über die Erlaubnis zur gewerbsmäßigen Überlassung von
+    Arbeitnehmern in Deutschland, die von der Bundesagentur für Arbeit -
+    Regionaldirektion Düsseldorf erteilt wurde.
 description: '   Wir engagieren uns im Bereich der Arbeitnehmerüberlassung und besitzen entsprechende Genehmigungen in Polen. HR Personal Service Sp. zo .o  verfügen  über die Erlaubnis zur gewerbsmäßigen Überlassung von Arbeitnehmern in Deutschland, die von der Bundesagentur für Arbeit - Regionaldirektion Düsseldorf erteilt wurde. Die polnische Leih- und Zeitarbeiter gelten als besonders zuverlässig. Versäumen Sie die Gelegenheit nicht und kontaktieren Sie uns – wir garantieren, dass unsere Arbeitskräfte einen großen Beitrag für das Wachstum Ihres Unternehmens leisten können.  Profitieren auch Sie davon und zählen Sie zu unseren zufriedenen Partnern, die polnische Hilfskräfte bereits eingestellt haben.'
 intro:
   blurbs: []
