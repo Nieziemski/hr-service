@@ -13,29 +13,13 @@ mainpitch:
     Verfügen wir über eins breites Spektrum an Personallösungen, die die
     HR-Prozesse in den Firmen unserer Kunden
 
-
-    ●   Diese Lösung ermöglicht dem Unternehmen sich der aktuellen
-    Arbeitsmarktsituation elastisch anzupassen (Zeitarbeiter), ohne
-    Personalkosten zu tragen.
-
-
-    ●   Die Übernahme von Aufgaben im Bereich der Rekrutierung polnischer
-    Arbeitskräfte und Personalbetreuung durch die Arbeitsagentur aus Polen ist
-    selbstverständlich.
-
-
-    ●   Alle vor Ort entstehenden Kosten wie Entlohnung, Versorgung,
-    Wohnungsmiete samt aller NK, alle Lohn-, Versicherungs- und Sozialkosten
-    (Renten-, Kranken-, Arbeitslosenversicherung) werden für unser Leihpersonal
-    von uns getragen. 
-
-
-    ●   Unsere motivierten Zeitarbeitnehmer arbeiten auf der Basis eines mit uns
-    unterzeichneten Arbeitsvertrages – unter Einhaltung der gesetzlichen
-    Mindestlöhne. 
-
-
-    ●  Arbeitseinsätze im 3- Schichtbetrieb sind möglich
+      ►   Wir stellen nur Facharbeiter mit berufserfahrung ein.
+      ►   Wir  erledigen alle Formalitäten :
+    alle vor Ort entstehenden Kosten wie Entlohnung, über Arbeitsschutzschulung
+    und Hygienebelehrungen, ärztliche Untersuchungen, Versicherungs,
+    Arbeitsverträge - und Sozialbeiträge
+      ►   Wir betreuen unsere Mitarbeitern 24 Stunden
+      ►   Bei nichteignung Ersatz des Mitarbeiters innerhalb von 7 Tagen 
 description: '   Wir engagieren uns im Bereich der Arbeitnehmerüberlassung und besitzen entsprechende Genehmigungen in Polen. HR Personal Service Sp. zo .o  verfügen  über die Erlaubnis zur gewerbsmäßigen Überlassung von Arbeitnehmern in Deutschland, die von der Bundesagentur für Arbeit - Regionaldirektion Düsseldorf erteilt wurde.'
 intro:
   blurbs: []
