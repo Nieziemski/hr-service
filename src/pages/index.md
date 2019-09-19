@@ -38,7 +38,7 @@ intro:
     Zeitarbeitnehmer stammen aus ganz Polen.
   description: >-
     Mit Professionalität und Komplexität übernehmen und erledigen wir sämtliche
-    Formalitäten
+    Formalitäten.
 main:
   heading: T
   description: R
