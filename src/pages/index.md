@@ -20,7 +20,7 @@ mainpitch:
               alle vor Ort entstehenden Kosten wie Entlohnung, über Arbeitsschutzschulung und 
               Hygienebelehrungen, ärztliche Untersuchungen, Versicherungs, Arbeitsverträge - und Sozialbeiträge
       ►     Wir betreuen unsere Mitarbeitern 24 Stunden
-      ►     Bei nichteignung Ersatz des Mitarbeiters innerhalb von 7 Tagen.
+      ►     Bei nichteignung Ersatz des Mitarbeiters innerhalb von 7 Tagen
 
 
     Wir engagieren uns im Bereich der Arbeitnehmerüberlassung und besitzen
