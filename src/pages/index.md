@@ -26,7 +26,7 @@ mainpitch:
     verfügen  über die Erlaubnis zur gewerbsmäßigen Überlassung von
     Arbeitnehmern in Deutschland, die von der Bundesagentur für Arbeit -
     Regionaldirektion Düsseldorf erteilt wurde.
-description: '   Wir engagieren uns im Bereich der Arbeitnehmerüberlassung und besitzen entsprechende Genehmigungen in Polen. HR Personal Service Sp. zo .o  verfügen  über die Erlaubnis zur gewerbsmäßigen Überlassung von Arbeitnehmern in Deutschland, die von der Bundesagentur für Arbeit - Regionaldirektion Düsseldorf erteilt wurde. Die polnische Leih- und Zeitarbeiter gelten als besonders zuverlässig. Versäumen Sie die Gelegenheit nicht und kontaktieren Sie uns – wir garantieren, dass unsere Arbeitskräfte einen großen Beitrag für das Wachstum Ihres Unternehmens leisten können.  Profitieren auch Sie davon und zählen Sie zu unseren zufriedenen Partnern, die polnische Hilfskräfte bereits eingestellt haben.'
+description: '   Die polnische Leih- und Zeitarbeiter gelten als besonders zuverlässig. Versäumen Sie die Gelegenheit nicht und kontaktieren Sie uns – wir garantieren, dass unsere Arbeitskräfte einen großen Beitrag für das Wachstum Ihres Unternehmens leisten können.  Profitieren auch Sie davon und zählen Sie zu unseren zufriedenen Partnern, die polnische Hilfskräfte bereits eingestellt haben.'
 intro:
   blurbs: []
   heading: >-
